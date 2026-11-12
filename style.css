@@ -1,0 +1,10 @@
+:root { color-scheme: dark; }
+body { margin: 0; padding: 20px 20px 48px; background: #0b0f14; color: #e8eef5; font: 16px/1.6 system-ui, sans-serif; overflow-wrap: break-word; }
+main { max-width: 720px; margin: 0 auto; }
+h1 { font-size: 26px; line-height: 1.25; margin: 4px 0 4px; }
+h2 { font-size: 18px; margin: 28px 0 6px; color: #3ddc84; }
+p, li { color: #c3ced9; }
+ul { padding-left: 22px; }
+a { color: #3ddc84; }
+.date { color: #8493a3; font-size: 14px; margin: 0 0 18px; }
+.box { border: 1px solid #243140; border-radius: 14px; padding: 12px 16px; background: #121922; }
